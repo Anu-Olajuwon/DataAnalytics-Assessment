@@ -1,4 +1,4 @@
-a# DataAnalytics-Assessment
+# DataAnalytics-Assessment
 
 SELECT 
   u.id AS owner_id,
